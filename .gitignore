@@ -1,0 +1,10 @@
+data/raw/
+data/*.zip
+data/*.zip.kaggle-partial
+data/processed/tdcsfog_features_2s.csv
+data/processed/held_out_predictions.csv
+data/processed/kmeans_window_assignments.csv
+models/*.joblib
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]

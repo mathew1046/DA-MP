@@ -1,0 +1,24 @@
+{
+  "event_type_model": "Balanced random forest",
+  "event_type_macro_f1": 0.33247331918006684,
+  "event_type_balanced_accuracy": 0.3136840353450981,
+  "event_type_macro_average_precision": 0.38168060282172106,
+  "binary_model": "Balanced histogram boosting",
+  "binary_fog_f1": 0.4870900209351012,
+  "binary_balanced_accuracy": 0.7429928384693234,
+  "binary_average_precision": 0.50082284103267,
+  "held_out_subjects": [
+    "02bc69",
+    "231c3b",
+    "312788",
+    "31d269",
+    "7688c1",
+    "7fcee9",
+    "bc3908",
+    "c7fee4",
+    "c8e721",
+    "d8836b",
+    "e9fc55",
+    "f62eec"
+  ]
+}

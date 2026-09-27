@@ -1,0 +1,9 @@
+{
+  "windows": 25689,
+  "subjects": 60,
+  "pca_components": 15,
+  "selected_k": 2,
+  "selected_silhouette": 0.38263719092031656,
+  "paper_aligned_k": 4,
+  "paper_aligned_silhouette": 0.17136300597878534
+}
