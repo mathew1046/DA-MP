@@ -1,0 +1,50 @@
+[
+  {
+    "file": "assets/demo/walk_1.csv",
+    "recording": "2a9faf5644",
+    "subject": "31d269",
+    "medication": "on",
+    "seconds": 40.2,
+    "annotated_fog_fraction": 0.0
+  },
+  {
+    "file": "assets/demo/walk_2.csv",
+    "recording": "79b7e8af74",
+    "subject": "231c3b",
+    "medication": "on",
+    "seconds": 35.8,
+    "annotated_fog_fraction": 0.0
+  },
+  {
+    "file": "assets/demo/walk_3.csv",
+    "recording": "9dfe62541a",
+    "subject": "7fcee9",
+    "medication": "on",
+    "seconds": 34.1,
+    "annotated_fog_fraction": 0.0
+  },
+  {
+    "file": "assets/demo/walk_4.csv",
+    "recording": "9fc94b7eb6",
+    "subject": "bc3908",
+    "medication": "on",
+    "seconds": 94.2,
+    "annotated_fog_fraction": 0.0352
+  },
+  {
+    "file": "assets/demo/walk_5.csv",
+    "recording": "32685c1cb7",
+    "subject": "231c3b",
+    "medication": "off",
+    "seconds": 45.0,
+    "annotated_fog_fraction": 0.1734
+  },
+  {
+    "file": "assets/demo/walk_6.csv",
+    "recording": "0c7b7078a3",
+    "subject": "31d269",
+    "medication": "off",
+    "seconds": 84.5,
+    "annotated_fog_fraction": 0.5045
+  }
+]

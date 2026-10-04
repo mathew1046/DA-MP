@@ -1,0 +1,16 @@
+{
+  "subjects": 60,
+  "recordings": 506,
+  "window_count": 25689,
+  "raw_sensor_features": 51,
+  "subject_profile_features": 102,
+  "pca_components": 16,
+  "selected_k": 2,
+  "selected_k_mean_silhouette": 0.2653733643377264,
+  "selected_k_mean_pairwise_ari": 1.0,
+  "cluster_sizes": {
+    "1": 35,
+    "2": 25
+  },
+  "data_scope": "tDCS FoG challenge recordings, not daily living data"
+}
