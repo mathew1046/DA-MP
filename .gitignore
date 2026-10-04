@@ -5,6 +5,11 @@ data/processed/tdcsfog_features_2s.csv
 data/processed/held_out_predictions.csv
 data/processed/kmeans_window_assignments.csv
 models/*.joblib
+!models/fog_binary_model_final.joblib
+!models/fog_event_model_final.joblib
+!models/kmeans_gait_clusters_selected.joblib
+!models/kmeans_gait_clusters_k4.joblib
+!models/kmeans_subject_profile_model.joblib
 .ipynb_checkpoints/
 __pycache__/
 *.py[cod]
